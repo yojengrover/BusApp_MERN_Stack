@@ -1,0 +1,13 @@
+.wrapper{
+    width: 1000px;
+    justify-content: center;
+    padding-left: 100px;
+    margin-left: 130px;
+    background-image: url(nav.jpg.jpg);
+    opacity: 95%;
+    height: 600px;
+    padding-right: 115px;
+    border-radius: 15px;
+
+}
+

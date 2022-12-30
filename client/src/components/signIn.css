@@ -1,0 +1,20 @@
+
+
+.container-Signup{
+  
+  width: fit-content;
+  padding-top:10px ;
+  padding: 10px;
+} 
+
+.container-Signin{
+ 
+  width: fit-content;
+  font-weight: bold;
+  padding-left: 250px;
+  padding-right: 1%;
+  margin-right: -30%;
+  border: yellow;
+  
+  
+}

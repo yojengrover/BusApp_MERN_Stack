@@ -1,0 +1,15 @@
+body{
+    background-image: url(final.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.navbar-custom{
+    background-color: rgb(29, 31, 31);
+    height: 40px;
+    width: auto;
+    
+}
+.navtitle{
+    font-weight: bold;
+    color: rgb(255, 248, 248);
+}
